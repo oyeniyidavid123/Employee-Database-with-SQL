@@ -12,5 +12,36 @@ Data Engineering
 
 Data Analysis
 
-Data Modeling
+### Data Modeling
 In this step an ERD(Entity Relation Database) diagram was built with 6 tables to inspect the 6 CSV files.
+![image](https://user-images.githubusercontent.com/57304123/89113985-7a13f800-d42c-11ea-9019-b82f2262478a.png)
+
+
+### Data Engineering
+In this step we use the information to create a table schema for each of the six CSV files. and import each CSV file into the corresponding SQL table.
+
+Data Analysis
+Once we have a complete database, we run the SQL queries to obtain the following:
+
+List the following details of each employee: employee number, last name, first name, gender, and salary.
+
+List employees who were hired in 1986.
+
+List the manager of each department with the following information: department number, department name, the manager's employee number, last name, first name, and start and end employment dates.
+
+List the department of each employee with the following information: employee number, last name, first name, and department name.
+
+List all employees whose first name is "Hercules" and last names begin with "B."
+
+List all employees in the Sales department, including their employee number, last name, first name, and department name.
+
+List all employees in the Sales and Development departments, including their employee number, last name, first name, and department name.
+
+In descending order, list the frequency count of employee last names, i.e., how many employees share each last name.
+
+Plotting the data
+In the next step we generate a visualization of the data by:
+
+Importing the SQL database into Pandas.
+Creating a bar chart of average salary by title.
+
