@@ -39,9 +39,10 @@ List all employees in the Sales and Development departments, including their emp
 
 In descending order, list the frequency count of employee last names, i.e., how many employees share each last name.
 
-Plotting the data
+### Plotting the data
 In the next step we generate a visualization of the data by:
 
 Importing the SQL database into Pandas.
 Creating a bar chart of average salary by title.
+![image](https://user-images.githubusercontent.com/57304123/89114005-c828fb80-d42c-11ea-9342-8a8a321faf83.png)
 
