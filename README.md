@@ -13,6 +13,7 @@ Data Engineering
 Data Analysis
 
 ### Data Modeling
+
 In this step an ERD(Entity Relation Database) diagram was built with 6 tables to inspect the 6 CSV files.
 ![image](https://user-images.githubusercontent.com/57304123/89113985-7a13f800-d42c-11ea-9019-b82f2262478a.png)
 
